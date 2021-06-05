@@ -1,0 +1,9 @@
+#!/bin/bash
+touch Filec.txt
+echo "Песни и танцы"> Filec.txt
+cd ../
+mkdir Second 
+cd Second
+touch Песни.txt Танцы.txt
+echo "Песни у людей разные" > Песни.txt
+echo "Топ, шлёп, хлоп и все дела" > Танцы.txt
